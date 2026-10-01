@@ -1,0 +1,8 @@
+.git
+.gitattributes
+.gitignore
+appsettings*.json
+*.zip
+old/
+libwkhtmltox.*
+web.config.backup
